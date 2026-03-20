@@ -7,7 +7,6 @@
     "verification": "https://youtu.be/Dhk9DM3NFe8?si=igYIVpVPrkfzp2UZ",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [mobile: true,
-        "SomeRandomPrsn"
+    "records": ["SomeRandomPrsn"
     ]
 }
