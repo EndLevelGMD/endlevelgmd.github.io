@@ -1,3 +1,10 @@
 [
-    "MagneticCore"
+  {
+    "id": 1,
+    "name": "Magnetic Core",
+    "author": "EndLevelGMD",
+    "verifier": "DizzyXYZ",
+    "video": "https://youtu.be/Dhk9DM3NFe8?si=igYIVpVPrkfzp2UZ",
+    "difficulty": 1
+  }
 ]
