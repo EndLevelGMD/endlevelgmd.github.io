@@ -8,9 +8,17 @@
     "percentToQualify": 50,
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "SomeRandomPrsn",
+            "percent": 100
+        },
         {
             "user": "EndLevelGMD",
             "percent": 100
+        },
+         {
+            "user": "TheOverworld",
+            "percent": 56
         }
     ]
 }
