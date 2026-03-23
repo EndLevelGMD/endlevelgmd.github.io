@@ -8,6 +8,9 @@
     "percentToQualify": 36,
     "password": "Free To Copy",
     "records": [
-        
+         {
+            "user": "SomeRandomPrsn",
+            "percent": 100
+        }
     ]
 }
