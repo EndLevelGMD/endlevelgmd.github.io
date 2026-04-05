@@ -70,9 +70,6 @@ export default {
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
-                            <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
-                            </td>
                         </tr>
                     </table>
                 </div>
@@ -89,6 +86,12 @@ export default {
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
+                        <div class="callout">
+                            If you're interested in playing legitimately verified demons by us, check out
+                            <a href="https://nexusdemonlist.github.io/#/" target="_blank">
+                            the Nexus Demon List (NDL)
+                        </a>.
+                    </div>
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
