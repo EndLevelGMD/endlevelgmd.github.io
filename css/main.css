@@ -94,3 +94,17 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+.callout {
+  background-color: #1e66e1;
+  color: white;
+  padding: 16px 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.callout a {
+  color: white;
+  text-decoration: underline;
+  font-weight: 600;
+}
