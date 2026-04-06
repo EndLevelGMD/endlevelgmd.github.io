@@ -88,9 +88,9 @@ export default {
                     <template v-if="editors">
                         <div class="callout">
                             <p class="type-label-md">
-                                If you're interested in playing legitimately verified demons by us, check out
+                                If you're interested in playing legitimately verified demons by us, check out the
                                 <a href="https://nexusdemonlist.github.io/#/" target="_blank">
-                                the Nexus Demon List (NDL)
+                                Nexus Demon List (NDL)
                                 </a>
                             </p>
                         </div>
